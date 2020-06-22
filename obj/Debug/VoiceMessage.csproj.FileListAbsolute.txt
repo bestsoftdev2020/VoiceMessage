@@ -1,0 +1,14 @@
+F:\WorkResult\CSharp\VoiceMessage\bin\Debug\VoiceMessage.exe.config
+F:\WorkResult\CSharp\VoiceMessage\bin\Debug\VoiceMessage.exe
+F:\WorkResult\CSharp\VoiceMessage\bin\Debug\VoiceMessage.pdb
+F:\WorkResult\CSharp\VoiceMessage\obj\Debug\VoiceMessage.csprojAssemblyReference.cache
+F:\WorkResult\CSharp\VoiceMessage\obj\Debug\VoiceMessage.Properties.Resources.resources
+F:\WorkResult\CSharp\VoiceMessage\obj\Debug\VoiceMessage.csproj.GenerateResource.cache
+F:\WorkResult\CSharp\VoiceMessage\obj\Debug\VoiceMessage.csproj.CoreCompileInputs.cache
+F:\WorkResult\CSharp\VoiceMessage\obj\Debug\VoiceMessage.exe
+F:\WorkResult\CSharp\VoiceMessage\obj\Debug\VoiceMessage.pdb
+F:\WorkResult\CSharp\VoiceMessage\obj\Debug\VoiceMessage.Form1.resources
+F:\WorkResult\CSharp\VoiceMessage\bin\Debug\NAudio.dll
+F:\WorkResult\CSharp\VoiceMessage\bin\Debug\NAudio.xml
+F:\WorkResult\CSharp\VoiceMessage\obj\Debug\VoiceMessage.csproj.CopyComplete
+F:\WorkResult\CSharp\VoiceMessage\bin\Debug\mailinblue.dll

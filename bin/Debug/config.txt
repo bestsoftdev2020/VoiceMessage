@@ -1,0 +1,10 @@
+<interval>
+10
+<recording_time>
+4
+<sender_email>
+bedditmail@gmail.com
+<receiver_email>
+bedditmail@gmail.com
+<path>
+E:\Media\
